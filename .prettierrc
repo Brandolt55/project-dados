@@ -1,0 +1,7 @@
+{
+    "semi":false,
+    "singlequote":true,
+    "printWidht": 80,
+    "tabWidth": 2,
+    "trailingcomma": "es5"
+}
